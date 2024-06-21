@@ -81,7 +81,7 @@ threads:
   spades: 8
   metaquast: 8
   megahit: 16
-  kraken2: 4
+  kraken2: 16
   metaphlan: 8
   bowtie2_build: 8
   map_reads: 8
